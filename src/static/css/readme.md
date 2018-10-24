@@ -1,0 +1,1 @@
+This is placeholder folder for auto generated css from styls files.
